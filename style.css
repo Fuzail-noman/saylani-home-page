@@ -1,0 +1,832 @@
+.ah{
+    color: red !important;
+    background-color: aqua;
+    width: 200PX;
+}
+h1{
+    color:black;
+ font-size: 40px;
+ padding-top: 100px;
+ margin-left: -10px !important;
+}
+b.one-one{
+    color: rgb(0, 128, 126);
+    font-size: 60px;
+    font-weight: 100px !important;
+}
+
+.pub{
+    color: black;
+    font-size: 40px;
+
+}
+
+
+.pubg{
+    color: blue;
+    font-size: 40px;
+
+}
+.ut{
+  background-color: white;
+    height: 760.6vh;
+
+}
+@media screen and (max-width: 600px) {
+  .fg{
+    background-color: black;
+    color: white;
+    
+   }
+  
+   .fgh{
+    background-color: black;
+    color: white;
+  font-size: 20px;
+  }
+   .mah{
+    background-color: yellow;
+    border: 2px solid yellow;
+    height: 400px !important;
+    font-size: 20px;
+   }
+  
+  .sd{
+    padding-left: 100px;
+   padding-top: 50px !important;
+  }
+  .dft{
+    height: 250px !important;
+    width: 350px !important;
+   }
+   .sams{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px !important;
+  }
+  
+  .samsr{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px !important;
+  }
+  
+  
+  .samsre{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px !important;
+  }
+  
+  .samsree{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px !important;
+  }
+  
+  .samsreen{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px !important;
+  }
+  .rui{
+    border-radius: 40px;
+    height: 100px;
+   margin-left: 30% !important;
+    vertical-align: middle;
+    }
+    .sli{
+      text-align: center;
+      font-size: 20px;
+      color: green;
+     }
+     .ruis{
+      font-size: 20px;
+    color: blue;
+     margin-left: 30% !important;
+      vertical-align: middle;
+      }
+
+      .ruie{
+       font-size: 25px;
+       color: black;
+       margin-left: 20% !important;
+        vertical-align: middle;
+        }
+
+        .email-input {
+          display: flex !important;
+          width: 290px;
+          border: 1px solid #7317cf;
+          border-radius: 5px;
+          padding: 3px;
+          height: 70px;
+          margin-left: 200px !important;
+        }
+        
+        .form_control{
+          width: 290px;
+          text-align: center;
+          
+        }
+        
+        
+        
+        .rrr{
+          background-color:white;
+          color:black ;
+          border-radius: 20px;
+          width: 190px;
+          margin-left: 200px !important;
+          height: 50px;
+        }
+        .rrrs{
+          background-color:blue;
+          color:red ;
+          border-radius: 20px;
+          width: 190px !important;
+        
+          height: 50px;
+        }
+        .sub{
+          margin-bottom: 20px;
+          margin-left: 100px !important;
+          font-size: 20px;
+        }
+
+      }
+
+        .funding-box .fund-box button {
+          background-color: #8dc63f;
+          border: none;
+          font-size: 14px !important;
+          outline: none;
+          padding: 10px 30px;
+          width: 100%;
+      }
+
+
+      .row {
+        --bs-gutter-x: 1.5rem;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: calc(-1* var(--bs-gutter-y));
+        margin-right: calc(-.5* var(--bs-gutter-x));
+        margin-left: calc(-.5* var(--bs-gutter-x));
+    }
+
+    .mt-5 {
+      margin-top: 3rem !important;
+  }
+  .col-12 {
+      flex: 0 0 auto;
+      width: 100%;
+  }
+
+  .position-relative {
+    position: relative !important;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.images {
+  border-radius: 10px;
+  height: 300px;
+  object-fit: cover;
+  width: 100%;
+}
+img, svg {
+  vertical-align: middle;
+}
+
+.motar {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-align: left;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+}
+
+.rrrs{
+  background-color:blue;
+  color:red ;
+  border-radius: 20px;
+  width: 390px;
+
+  height: 50px;
+}
+
+
+h5{
+  color: orange !important;
+}
+
+
+
+main {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+}
+
+/* h2 {
+  margin-bottom: 20px;
+} */
+
+.media-updates {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.media-item {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 10px;
+  text-align: left;
+}
+
+.media-item img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.media-info .date {
+  background-color: #007BFF;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.media-info p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.media-info .tags {
+  color: #777;
+}
+
+
+
+.subscribe {
+  background-color: #007BFF;
+  color: white;
+  padding: 40px;
+  border-radius: 5px;
+}
+
+.sub{
+  margin-bottom: 20px;
+  margin-left: 800px;
+  font-size: 60px;
+}
+
+.subscribe form {
+  display: flex;
+  justify-content: center;
+}
+
+.subscribe input[type="email"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+.subscribe button {
+  padding: 10px 20px;
+  background-color: white;
+  color: #007BFF;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+
+
+
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+
+}
+
+
+
+.footer-logo {
+  height: 100px;
+  width: 350px;
+}
+
+.socials img {
+  height: 30px;
+  margin: 0 10px;
+}
+
+.footer-links {
+  display: flex;
+}
+
+.footer-links div {
+  margin: 0 20px;
+}
+
+.footer-links h3 {
+  margin-bottom: 10px;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links ul li {
+  margin-bottom: 5px;
+}
+
+.footer-links ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+address {
+  font-style: normal;
+}
+
+
+.treq{
+  width: 50px;
+  height: 50px;
+}
+ .smoke{
+  list-style-type: none;
+  color:deeppink !important;
+ }
+
+ .scale{
+  color:deeppink;
+  font-size: 20px;
+ }
+.sca{
+  font-size: 20px;
+}
+.oiuse{
+  width: 400px;
+  height: 5px;
+  background-color: white;
+  margin-left: 20px;
+  padding-right: 20px !important;
+}
+
+.galen{
+  font-size: 40px;
+}
+
+
+ .fg{
+  background-color: black;
+  color: white;
+  
+ }
+
+ .fgh{
+  background-color: black;
+  color: white;
+font-size: 20px;
+}
+ .mah{
+  background-color: yellow;
+  border: 2px solid yellow;
+  height: 200px;
+  font-size: 20px;
+ }
+
+.sd{
+  padding-left: 100px;
+ padding-top: 100px;
+}
+.dfg{
+  color: red;
+  background-color: aqua;
+}
+.dfg:hover{
+  color: white;
+  background-color:black;
+}
+
+.dfge{
+  color:green;
+  background-color: orangered;
+}
+.dfge:hover{
+  color:green;
+  background-color: orangered;
+  /* margin-left: 300px !important; */
+}
+
+ .dft{
+  height: 1000px;
+  width: 90%;
+ }
+.sam{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+.pti{
+  vertical-align: middle !important;
+  text-align: center !important;
+  margin-top: 5px !important;
+  margin-left: 50px;
+}
+
+h6{
+ font-size: 50px !important;
+ text-align: center;
+}
+
+.cool{
+  font-size: 30px;
+  text-align: center;
+}
+
+
+.cools{
+  font-size: 25px;
+  text-align: center;
+}
+.sams{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+
+.samsr{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+
+
+.samsre{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+
+.samsree{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+
+.samsreen{
+  width: 200px;
+  height: 200px;
+  background-color: antiquewhite;
+  margin-left: 20px;
+}
+
+.mt-5 {
+  margin-top: 3rem !important;
+}
+/* flex-shrink: 0;
+width: 100%;
+max-width: 100%;
+padding-right: calc(var(--bs-gutter-x)* .5);
+padding-left: calc(var(--bs-gutter-x)* .5);
+margin-top: var(--bs-gutter-y);
+} */
+
+
+.col-12 {
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+
+.images {
+  border-radius: 15px;
+  height: 250px;
+  object-fit: cover;
+  width: 80%;
+}
+img, svg {
+  vertical-align: middle;
+}
+
+.raja {
+  background-color:rgba(0, 255, 204, 0);
+  color:red;
+  text-align: left;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  font-size: 30px;
+  font-weight: 30px;
+}
+
+
+
+/* .btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #0d6efd;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-border-color: #0a58ca;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+} */
+.ghj{
+  background-color:  blue;
+  color:aqua ;
+}
+
+.rrr{
+  background-color:  blue;
+  color:white ;
+  border-radius: 20px;
+}
+
+.rew{
+
+  height: 550px;
+  object-fit: cover;
+  width: 80%;
+  margin-left: 5px;
+}
+.h4{
+  padding-top: 50px !important;
+  font-size: 30px !important;
+}
+
+.tyu{
+  font-size: 50px !important;
+  text-align: left;
+ }
+ .hgt{
+  font-size: 30px !important;
+  text-align: left;
+  padding-left: -30px !important;
+  color: blue;
+ }
+ 
+ .hawa{
+  width: 100%;
+  background-color:white;
+  height:100px;
+  text-align:left !important;
+  padding-left: 0px !important;
+ }
+
+ .hamz{
+  width: 100%;
+  background-color:blueviolet;
+  height:300px;
+  text-align:left !important;
+  padding-left: 0px !important;
+ }
+
+.gall{
+  background-color: white;
+  width: 80px;
+  border-radius: 30px;
+  height: 75px;
+}
+.bal{
+ text-align: center;
+  margin-left: 50px;
+}
+
+.gall{
+  
+   margin-left: 60px;
+ }
+
+
+ .services_counter {
+  background-color: #0d6db7;
+  left: 0;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  position: absolute;
+  position: relative;
+  width: 100%;
+}
+
+
+.tv {
+    background-color: #0056b3;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+.gali .blue{
+  width: 100px;
+  height: auto;
+  color: white !important;
+  background-color: white !important;
+}
+ .sli{
+  text-align: center;
+  font-size: 30px;
+  color: green;
+ }
+ .rui{
+ border-radius: 40px;
+ height: 100px;
+margin-left: 45%;
+ vertical-align: middle;
+ }
+
+
+ .ruis{
+  color: blue;
+  font-size: 40px;
+ margin-left: 30%;
+  vertical-align: middle;
+  }
+  .ruie{
+    color: orange;
+    font-size: 20px;
+   margin-left:40%;
+    vertical-align: middle;
+    }
+
+    .ruiw{
+      /* color: blue; */
+      font-size: 20px;
+     margin-left: 10%;
+      vertical-align: middle;
+      }
+
+    
+
+
+
+      .images {
+        border-radius: 15px;
+        height: 500px;
+        object-fit: cover;
+        width: 80%;
+      }
+      img, svg {
+        vertical-align: middle;
+      }
+      
+      .hreff{
+        width: 70px;
+        /* vertical-align: middle !important; */
+        text-align: center;
+        margin-top: 0px !important;
+        margin-left: 100px;
+      }
+ .gfd{
+  font-size: 0px;
+ }
+
+
+ .sliT{
+  text-align: center;
+  font-size: 70px;
+  color: green;
+ }
+
+.ptiu{
+  height: 300px;
+  margin-left: 20px !important;
+}
+
+.ghjs{
+  background-color:  blue;
+  color:aqua ;
+ 
+}
+.but{
+ font-size: 30px;
+
+}
+
+.weq{
+  margin-left: 20px;
+  font-weight: 200;
+}
+
+.suf{
+  background-color: blue;
+  width: 100%;
+  height: 300px;
+}
+
+
+.tyus{
+  font-size: 50px !important;
+  text-align: left;
+  color: white !important;
+ }
+
+ .email-input {
+  display: flex !important;
+  width: 490px;
+  border: 1px solid #7317cf;
+  border-radius: 5px;
+  padding: 3px;
+  height: 70px;
+  margin-left: 600px !important;
+}
+
+.form_control{
+  width: 490px;
+  text-align: center;
+  
+}
+
+
+
+.rrr{
+  background-color:white;
+  color:black ;
+  border-radius: 20px;
+  width: 490px;
+  margin-left: 600px !important;
+  height: 50px;
+}
+
+.dasbin{
+  background-color: black;
+  width: 100%;
+  height: 100%;
+}
+
+ .kli{
+  background-color: blueviolet;
+  width: 100%;
+  height: 100%;
+ }
+
+.opo{
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color:blueviolet ;
+}
+.iou{
+  width: 100px;
+  height: 50px;
+  background-color: blueviolet ;
+}
+/*  */
+
+
+
+
+
+
+
+
+
+
+
+
+
